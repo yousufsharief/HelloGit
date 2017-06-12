@@ -7,7 +7,7 @@ public class TestClass {
 		System.out.println(" ================================  ");
 		System.out.println(" bye");
 		System.out.println("****");
-		System.out.println();
+		System.out.println("&&&&");
 
 	}
 
